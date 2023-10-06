@@ -5,3 +5,6 @@
 - Mục tiêu ăn càng nhiều Point và làm con rắn càng dài càng tốt.
 
 - Trong vòng 60s nếu chiều dài con rắn không đủ độ dài thì game sẽ thua. Tại level đầu tiên, chiều dài được yêu cầu là 10. Các level sau, mỗi level chiều dài được yêu cầu tăng 5. Ví dụ: Level 1 10, Level 2 15, Level 3 20,...
+
+### Thời gian làm bài
+8AM 05/10/2023 - 2AM 06/10/2023
